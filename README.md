@@ -4,6 +4,10 @@
 
 🔐 Passionné de cybersécurité, j’explore les vulnérabilités 🐞 et je développe des outils pour un monde numérique plus sûr 🛡️
 
+## 💻 Langages
+
+[![Mes Langages](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,go,bash)](https://skillicons.dev)
+
 ## 📫 Contact
 
 - ✉️ Email : [jobiyax@gmail.com](mailto:jobiyax@gmail.com)
