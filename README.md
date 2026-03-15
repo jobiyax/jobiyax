@@ -10,4 +10,4 @@
 
 ## 📫 Contact
 
-- ✉️ Email : [jobiyax@gmail.com](mailto:jobiyax@gmail.com)
+- ✉️ Email : [josuebiyayi@jobiyax.blog](mailto:josuebiyayi@jobiyax.blog)
