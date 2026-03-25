@@ -11,3 +11,4 @@
 ## 📫 Contact
 
 - ✉️ Email : [josuebiyayi@jobiyax.blog](mailto:josuebiyayi@jobiyax.blog)
+- 🌐 Blog : [jobiyax.blog](https://jobiyax.blog)
