@@ -6,7 +6,7 @@
 
 ## 💻 Langages
 
-[![Mes Langages](https://skillicons.dev/icons?i=python,js,ts,go,c,cpp,git,bash,powershell&perline=4&size=30)](https://skillicons.dev)
+[![Mes Langages](https://skillicons.dev/icons?i=python,js,ts,go,c,cpp,bash,powershell&perline=4&size=30)](https://skillicons.dev)
 
 ## 📫 Contact
 
