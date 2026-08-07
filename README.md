@@ -1,3 +1,15 @@
+<style>
+  @font-face {
+    font-family: 'Fira Code';
+    src: url('assets/fonts/FiraCode.woff2') format('woff2');
+    font-weight: 400 700;
+    font-display: swap;
+  }
+  body, h1, h2, h3, p, li, a, div, span, img {
+    font-family: 'Fira Code', monospace;
+  }
+</style>
+
 # Salut, je suis Jobiyax !
 
 Passionné par la cybersécurité, je sécurise les infrastructures et automatise les opérations.
